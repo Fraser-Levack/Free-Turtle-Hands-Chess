@@ -1,0 +1,6 @@
+count:::count,every number up to
+calculate:::calculate,work out,compute,quantify,evaluate
+powerDown:::turn off,power down,kill yourself
+inspireQuotes:::inspirational quote,inspire me,random quote,search for inspiration
+joke:::joke,jokes
+chess:::Chess,chess,play a game

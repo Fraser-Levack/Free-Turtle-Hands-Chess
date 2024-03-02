@@ -1,0 +1,3 @@
+positive:::happy,good,great,joyful,gleeful,joy,gratitude,prideful,serenity,hope,amusement,awe,happiness,romance
+negative:::sad,awful,depressed,loneliness,anger,emptiness,frustraition,fear,guilt,loneliness,stress,anxiety
+neutral:::ok,okay,fine,so so,meh,all the same,surprise,boredom
